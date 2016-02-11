@@ -8,9 +8,13 @@ Host: Digital Humanities and Journalism Group
 ### Overview
 
 10.30->12.00: Setup, print, variables, lists, dictionaries, for loop
+
 12.00->13.00 Lunch
+
 13.00->14.30: Methods, APIs, If/Else, Students writing new methods 
+
 14.30->15.00 Break
+
 15.00->16.30: Configuration and help with future resources
 
 
