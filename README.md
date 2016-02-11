@@ -1,14 +1,12 @@
 Introduction to Programming in Python
 =====================================
-Hacks/Hackers Workshop
+Hacks/Hackers Workshop Insight@NUIG
 ----------------------
-Insight@NUIG
-------------
 
 Host: Digital Humanities and Journalism Group
 ---------------------------------------------
-Overview
---------
+### Overview
+
 10.30->12.00: Setup, print, variables, lists, dictionaries, for loop
 12.00->13.00 Lunch
 13.00->14.30: Methods, APIs, If/Else, Students writing new methods 
@@ -29,11 +27,11 @@ __12.00 -> 13.00:__ Lunch Break
 
 ### Session 2
 
-___13.00 -> 13.30:___ Begin project: Write steps in pseudo-code. Use Browser to make request from CityBikes API. Explain JSON.
+__13.00 -> 13.30:__ Begin project: Write steps in pseudo-code. Use Browser to make request from CityBikes API. Explain JSON.
 
-___13.30 -> 14.00:___ Explain methods, ask students to write a simple method in a file.
+__13.30 -> 14.00:__ Explain methods, ask students to write a simple method in a file.
 
-___14.00 -> 14.30:___ Explain If/Else, test in Console. Ask students to try writing a method that will take the list of stations and return the names of all stations with an available bike.
+__14.00 -> 14.30:__ Explain If/Else, test in Console. Ask students to try writing a method that will take the list of stations and return the names of all stations with an available bike.
 
 __14.30 -> 15.00:__ Break
 
